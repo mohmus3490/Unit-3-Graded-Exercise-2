@@ -1,0 +1,557 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:');
+
+.desktop-desktop-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 22px;
+    padding-bottom: 83px;
+    background: #FFFFFF;
+}
+
+.desktop-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+.desktop-rectangle_4 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 18px;
+    padding-bottom: 19px;
+    background: rgba(196,196,196,1);
+}
+
+.desktop-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.desktop-the_shoe_shoping_store-0 {
+    width: 460px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 31px;
+    line-height: 35px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.desktop-rectangle_5 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 81px;
+    padding-top: 18px;
+    padding-bottom: 19px;
+    background: rgba(196,196,196,1);
+}
+
+.desktop-0-1-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 37px;
+    padding-right: 35px;
+}
+
+.desktop-shoe_selctions-0 {
+    width: 276px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 31px;
+    line-height: 35px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.desktop-rectangle_6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 73px;
+    padding-top: 16px;
+    padding-bottom: 21px;
+    background: rgba(196,196,196,1);
+}
+
+.desktop-0-2-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 32px;
+    padding-right: 22px;
+}
+
+.desktop-cart_checkout-0 {
+    width: 278px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 31px;
+    line-height: 35px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.desktop-1 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 58px;
+    padding-right: 538px;
+}
+
+.desktop-cardbox-0 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    background: rgba(255,255,255,1);
+}
+
+.desktop-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 34px;
+    padding-right: 33px;
+}
+
+.desktop-rectangle-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 45px;
+    padding-bottom: 26px;
+    background: rgb(255, 255, 255);
+}
+
+.desktop-1-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 53px;
+    padding-right: 31px;
+}
+
+.desktop-image-1 {
+    width: 155px;
+    height: 159px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.desktop-1-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 11px;
+    padding-left: 34px;
+    padding-right: 199px;
+}
+
+.desktop-rectangle_2 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9px;
+    padding-bottom: 14px;
+    background: rgba(224,188,188,1);
+    border: 1px solid rgba(0,0,0,1);
+}
+
+.desktop-1-0-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.desktop-_4 {
+    width: 55px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.desktop-1-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 14px;
+    padding-left: 71px;
+    padding-right: 71px;
+}
+
+.desktop-1-0-2-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.desktop-1-0-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.desktop-1-0-2-0-0-0 {
+    width: 164px;
+    height: 27px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.desktop-rectangle_3 {
+    width: 164px;
+    height: 27px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(247,62,62,1);
+    border: 1px solid rgba(0,0,0,1);
+}
+
+.desktop-add_to_cart-0 {
+    width: 164px;
+    flex-grow: 1;
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 21px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.desktop-cardbox-00 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 232px;
+    padding-bottom: 15px;
+    background: rgba(255,255,255,1);
+}
+
+.desktop-1-1-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 34px;
+    padding-right: 33px;
+}
+
+.desktop-rectangle-00 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 43px;
+    padding-bottom: 54px;
+    background: rgb(255, 255, 255);
+}
+
+.desktop-1-1-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 36px;
+    padding-right: 29px;
+}
+
+.desktop-image_2 {
+    width: 174px;
+    height: 133px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.desktop-1-1-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 11px;
+    padding-left: 34px;
+    padding-right: 199px;
+}
+
+.desktop-rectangle_2_ {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9px;
+    padding-bottom: 14px;
+    background: rgba(224,188,188,1);
+    border: 1px solid rgba(0,0,0,1);
+}
+
+.desktop-1-1-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.desktop-_40 {
+    width: 55px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.desktop-1-1-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 14px;
+    padding-left: 71px;
+    padding-right: 71px;
+}
+
+.desktop-1-1-2-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.desktop-1-1-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.desktop-1-1-2-0-0-0 {
+    width: 164px;
+    height: 27px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.desktop-rectangle_3_ {
+    width: 164px;
+    height: 27px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(247,62,62,1);
+    border: 1px solid rgba(0,0,0,1);
+}
+
+.desktop-add_to_cart-00 {
+    width: 164px;
+    flex-grow: 1;
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 21px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.desktop-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 167px;
+    padding-left: 58px;
+    padding-right: 1076px;
+}
+
+.desktop-cardbox-000 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    background: rgba(255,255,255,1);
+}
+
+.desktop-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 34px;
+    padding-right: 33px;
+}
+
+.desktop-rectangle-000 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 44px;
+    padding-bottom: 51px;
+    background: rgb(255, 255, 255);
+}
+
+.desktop-2-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 34px;
+    padding-right: 31px;
+}
+
+.desktop-image_3 {
+    width: 174px;
+    height: 135px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.desktop-2-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 11px;
+    padding-left: 34px;
+    padding-right: 199px;
+}
+
+.desktop-rectangle_2_2 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9px;
+    padding-bottom: 14px;
+    background: rgba(224,188,188,1);
+    border: 1px solid rgba(0,0,0,1);
+}
+
+.desktop-2-0-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.desktop-_40_ {
+    width: 55px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.desktop-2-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 14px;
+    padding-left: 71px;
+    padding-right: 71px;
+}
+
+.desktop-2-0-2-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.desktop-2-0-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.desktop-2-0-2-0-0-0 {
+    width: 164px;
+    height: 27px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.desktop-rectangle_3_2 {
+    width: 164px;
+    height: 27px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(247,62,62,1);
+    border: 1px solid rgba(0,0,0,1);
+}
+
+.desktop-add_to_cart-000 {
+    width: 164px;
+    flex-grow: 1;
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 21px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}
